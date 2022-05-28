@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anayanapalli
-- 👀 I’m interested in architecting and building Distributed Systems
-- 🌱 I’m currently reading: Working Effectively with Legacy Code by Michael Feathers 
+- 👀 I’m interested in architecting and building data systems
+- 🌱 I’m currently reading: Fatal Vision
 - 📫 Email: anayanapalli@gmail.com
 
 <!---
